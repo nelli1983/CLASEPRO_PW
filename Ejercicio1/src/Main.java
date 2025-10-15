@@ -7,6 +7,6 @@ public class Main {
         System.out.println(nombre);
         System.out.println(edad);
         System.out.println(ciudad);
-        
+
     }
 }
